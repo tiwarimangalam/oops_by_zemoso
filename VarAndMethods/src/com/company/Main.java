@@ -2,7 +2,7 @@ package com.company;
 class VarAndMethods
 {
     private int c; // instance variable
-    
+    public static int res;
     public int method(int a,int b)
     {
         int d; // local variable
